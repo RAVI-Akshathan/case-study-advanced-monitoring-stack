@@ -8,6 +8,10 @@ This case study documents the design and deployment of an enterprise-grade, real
 
 The goal of this project was to establish full visibility over critical infrastructure, reduce mean time to detect (MTTD) system incidents, and build unified, high-performance dashboards for IT operations.
 
+## Architecture Diagram
+![System Architecture & Data Flow](images/Netdata Architecture.png)
+*The diagram above illustrates the real-time telemetry streaming from on-premise multi-OS production servers (Linux/Windows) through Netdata Agents to Netdata Cloud Rooms to Grafana visual dashboards.*
+
 In this repository, you will find:
 * **Architecture Design:** Topology and data flow between production agents, cloud collectors, and visualization tools.
 * **Automation Scripts:** Custom PowerShell and Bash scripts used for automated agent deployment and configuration.
