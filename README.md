@@ -1,5 +1,5 @@
 # case-study-advanced-monitoring-stack
-Real-world deployment of a scalable and advanced monitoring infrastructure using Netdata Cloud and Grafana for production servers in an enterprise environment.
+Real-world deployment of a scalable and advanced monitoring infrastructure using Netdata Cloud and Grafana for more than 80 production servers in an enterprise environment.
 
 # Advanced Production Server Monitoring Stack
 
